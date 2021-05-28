@@ -1,0 +1,2 @@
+# Projeto-Recriando-a-p-gina-inicial-do-Instagram
+Nesse projeto, recriei a pagina inicial do instagram, porém para colecionadores, seria uma pagina para que todos os colecionadores do mundo possam publicar fotos das suas coleções e conheicer colecionadores de todo o mundo// En Este trabajo practico, recrie la pagina inicial del Instagram, pero para coleccionista, seria una pagina para que todos los coleccionistas del mundo puendan compartir fotos de sus colecciociones y conocener a otros coleccionista de todo el mundo.
